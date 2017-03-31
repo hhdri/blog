@@ -1,3 +1,4 @@
-[submodule "themes/black-and-light"]
-	path = themes/black-and-light
-	url = https://github.com/hhdri/hugo-black-and-light-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:hhdri/hhdri.github.io.git
+	branch = master
